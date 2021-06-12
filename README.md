@@ -2,7 +2,7 @@
 
 ### Description
 
-A Android Kotlin Project which is record the pain as diary. 
+An Android Kotlin Project which is to record the pains. 
 
 Authication: Google Auth
 
