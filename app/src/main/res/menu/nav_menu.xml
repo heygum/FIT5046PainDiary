@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navHome"
+            android:icon="@drawable/outline_home_black_36"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/navEntry"
+            android:icon="@drawable/outline_create_black_36"
+            android:title="Pain Data Entry"/>
+        <item
+            android:id="@+id/navRecord"
+            android:icon="@drawable/outline_receipt_long_black_36"
+            android:title="Daily Record"/>
+        <item
+            android:id="@+id/navReport"
+            android:icon="@drawable/outline_history_edu_black_36"
+            android:title="Report"/>
+        <item
+            android:id="@+id/navMap"
+            android:icon="@drawable/outline_analytics_black_36"
+            android:title="Map"/>
+
+    </group>
+
+
+</menu>

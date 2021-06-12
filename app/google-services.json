@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248955415129",
+    "project_id": "notpainin5046",
+    "storage_bucket": "notpainin5046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248955415129:android:5973060e4735e6f105df48",
+        "android_client_info": {
+          "package_name": "com.example.fit5046paindiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248955415129-6ro186n3tpjdki3ed92rftqn1qstj3bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fit5046paindiary",
+            "certificate_hash": "77b3f1f5681cd101379dfee78776148e39f5058d"
+          }
+        },
+        {
+          "client_id": "248955415129-c8ec0jlb40j3p1d1kodvj57mlibnmac6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmIR3hCO1BQC8LbaWbTxGbLmmrYkV2mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248955415129-c8ec0jlb40j3p1d1kodvj57mlibnmac6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
