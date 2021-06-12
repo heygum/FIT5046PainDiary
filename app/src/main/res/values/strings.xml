@@ -2,7 +2,7 @@
     <string name="app_name">FIT5046PainDiary</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="mapbox_access_token"> pk.eyJ1Ijoia3h1dTAwMjUiLCJhIjoiY2tnOHY3MG1hMDBpbTJ0czJ0MWpuOXU1ayJ9.VVM65g0hQ_-XUP6KGqAu4A</string>
+    <string name="mapbox_access_token"> [using your Mapbox token here] </string>
     
     <string-array name="pain_location_array">
         <item>back</item>

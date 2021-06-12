@@ -23,7 +23,7 @@ class HomeFragment:Fragment() {
     //the lontitude and latitude of my location
     private var lon: Double = 145.0383139
     private var lat: Double = -37.8848052
-    private var appid = "d369f9c4e85439efd98139163b5102fb"
+    private var appid = "Enter your OpenWeatherAPI" // Enter your OpenWeatherAPI
 
     override fun onCreateView(
         inflater: LayoutInflater,
